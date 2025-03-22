@@ -17,7 +17,7 @@ This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0
 
 #### Text vs Code
 - 📖 **Written content** (tutorials, documentation) is under **CC BY-SA 4.0**.
-- 💻 **Code snippets** (scripts, examples) are licensed under **MIT** *(or another license of your choice, specify if needed)*.
+- 💻 **Code snippets** (scripts, examples) are licensed under **MIT**.
 
 ### Full License
 Read the full license here: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
